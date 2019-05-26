@@ -1,0 +1,2 @@
+# HighConcurrentSpike
+高并发秒杀系统实战，运用rabbitMQ消息中间件等实现高并发以及高可用方案。
